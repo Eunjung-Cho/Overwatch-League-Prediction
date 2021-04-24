@@ -1,2 +1,2 @@
 # E-sport-Prediction
-E-sport 승패 및 승률 예측
+오버워치 리그 승패 및 승률 예측
